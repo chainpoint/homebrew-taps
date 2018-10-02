@@ -18,10 +18,35 @@ The following formulae can then be installed:
 
 ### Chainpoint CLI
 
-Command-line program for interacting with the Chainpoint Network. Installs `chainpoint` and `chp` binaries.
+Command-line program for interacting with the Chainpoint Network.
 
-Repository: [chainpoint/chainpoint-cli](https://github.com/chainpoint/chainpoint-cli)
+Binaries:
+* `chainpoint`
+* `chp` (alias)
+
+Repository: 
+
+[chainpoint/chainpoint-cli](https://github.com/chainpoint/chainpoint-cli)
+
+Install:
 
 ```
-brew install chainpoint
+brew install chainpoint-cli
+```
+
+### Chainpoint Node CLI
+
+Command-line program for configuring a Chainpoint Node. 
+
+Binaries:
+* `chainpoint-node`
+
+Repository:
+
+[chainpoint/chainpoint-node-cli](https://github.com/chainpoint/chainpoint-node-cli)
+
+Install:
+
+```
+brew install chainpoint-node-cli
 ```

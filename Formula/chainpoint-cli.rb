@@ -1,4 +1,4 @@
-class Chainpoint < Formula
+class ChainpointCli < Formula
   desc "Command-line Interface (CLI) for managing timestamp proofs"
   homepage "https://github.com/chainpoint/chainpoint-cli"
   url "https://github.com/chainpoint/chainpoint-cli/releases/download/v1.4.6/chainpoint-cli-macos-x64"
