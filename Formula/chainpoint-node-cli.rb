@@ -13,6 +13,6 @@ class ChainpointNodeCli < Formula
   end
 
   test do
-    system "#{bin}/chainpoint-node", "version"
+    system "#{bin}/chainpoint-node", "--version"
   end
 end
