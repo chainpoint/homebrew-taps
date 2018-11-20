@@ -1,9 +1,9 @@
 class ChainpointCli < Formula
   desc "Command-line Interface (CLI) for managing timestamp proofs"
   homepage "https://github.com/chainpoint/chainpoint-cli"
-  url "https://github.com/chainpoint/chainpoint-cli/releases/download/v1.4.7/chainpoint-cli-macos-x64"
-  version "1.4.7"
-  sha256 "a83fab7afe87e46b49cab8ead5f9eb8a4608183b7e61d0e7e9dbc53c3c6042c9"
+  url "https://github.com/chainpoint/chainpoint-cli/releases/download/v1.4.11/chainpoint-cli-macos-x64"
+  version "1.4.11"
+  sha256 "481dce0ed9ca3497c82659b6b913a5a0937d9addad930819d038aa42306d4d0b"
 
   bottle :unneeded
 
